@@ -1,5 +1,5 @@
 // mongoose 모듈 가져옴
-const mongoose = require('moongoose');
+const mongoose = require('mongoose');
 
 // Schema 생성
 const userSchema = mongoose.Schema({
